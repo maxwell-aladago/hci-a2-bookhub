@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The Fire Next Time",
+        "img": "assets/the-fire-next-time-baldwin.jpg",
+        "author": "James Baldwin",
+        "pdf": "https://afrikin.org/books/the-fire-next-time.pdf"
+    },
+    {
+        "title": "1984",
+        "img": "assets/1984.jpg",
+        "author": "George Orwell",
+        "pdf": "https://www.planetebook.com/free-ebooks/1984.pdf"
+    },
+    {
+        "title": "Between the World and Me",
+        "img": "assets/btn-world-coates.jpg",
+        "author": "Ta-Nehisi Coates",
+        "pdf": "https://iberian-connections.yale.edu/wp-content/uploads/2020/09/Between-the-World-and-Me-by-Ta-Nehisi-Coates.pdf"
+    },
+    {
+        "title": "War and Peace",
+        "img": "assets/war-n-peace.jpg",
+        "author": "Leo Tolstoy",
+        "pdf": "https://pdflake.com/war-and-peace-pdf-book/"
+    },
+    {
+        "title": "Things Fall Apart",
+        "img": "assets/things-fall-apart.jpg",
+        "author": "Chenua Achebe",
+        "pdf": "https://afrikin.org/books/things-fall-apart.pdf"
+    },
+    {
+        "title": "The Gods Are Not To Blame",
+        "img": "assets/the-gods.jpg",
+        "author": "Ola Rotimi",
+        "pdf": "https://www.semanticscholar.org/paper/The-Gods-Are-Not-To-Blame-Rotimi/7520cc7231cd9bee3ef7eb0ec90d364eb7e3df6b"
+    }
+]
